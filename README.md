@@ -1,6 +1,6 @@
 # Group08_BScCS_3rd_YEAR_ASIGNMENT
 #this is our group work Linux Operating System and its Network Management course (CSC 323)
-#WE have been given to work on by our leture yo can visit him github profile is carmel26
+#WE have been given to work on by our leture you can visit him github profile is carmel26
 
 #THIS PROJECT DEAL WITH EVENT REGISTRATION SYSTEM
 #Where Students and oher users they can register to the system where they can view events and choose which event to register
